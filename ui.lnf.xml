@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_WIDTH2" value="1024" />
+    <option name="MAX_LOOKUP_WIDTH2" value="700" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
