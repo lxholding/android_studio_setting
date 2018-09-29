@@ -6,6 +6,7 @@
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="1004" type="PLAIN_TEXT" />
       <mapping pattern="channelOthers" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="licence" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
