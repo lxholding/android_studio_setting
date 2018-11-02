@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ShowColorPicker">
+    <mouse-shortcut keystroke="control button5" />
+  </action>
+</keymap>
